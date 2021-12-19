@@ -1,0 +1,28 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+background:#cfe213;
+}
+
+.menu{
+    list-style: none;
+    padding: 0;
+    background: #95c080;
+    width: 100%;
+    height: 200px;
+max-width:  width 1000px;
+margin:left;
+  background-image: url(fondomenu.jpg.jpg);
+  background-size: cover;
+}
+
+.menu li a{
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+    display: block;
+      background-color: #95c080;
+}
+.menu li{
+    display:inline-block ;
+    text-align: justify;
+}
